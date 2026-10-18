@@ -1,70 +1,111 @@
-# Hi, I'm Alex! 👋 | ¡Hola, soy Alex!
+<div align="center">
 
-### Data Scientist | Científico de Datos
+# Alex · Data Scientist | Científico de Datos
 
-**EN** · I develop reproducible, data-driven solutions using Python, SQL, machine learning, and software engineering practices. My portfolio combines applied data science with data pipelines, workflow automation, and event processing.
+**Data Science · Machine Learning · Python · SQL · Data Engineering**
 
-**ES** · Desarrollo soluciones reproducibles basadas en datos mediante Python, SQL, aprendizaje automático y buenas prácticas de ingeniería de software. Mi portafolio combina ciencia de datos aplicada con pipelines, automatización de procesos y procesamiento de eventos.
+*From data to reproducible models and reliable systems.*  
+*De los datos a modelos reproducibles y sistemas confiables.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Tomsakoch0605-181717?logo=github)](https://github.com/Tomsakoch0605)
+
+**[English](#english) · [Español](#español) · [Projects / Proyectos](#featured-projects--proyectos-destacados)**
+
+</div>
 
 ---
 
-## 🔬 Data Science & Engineering | Ciencia de Datos e Ingeniería
+<a id="english"></a>
+## 🇬🇧 About me
 
-**EN:** My interests include exploratory data analysis, preprocessing, model validation, interpretable machine learning, ETL, APIs, and automated testing. I emphasize reproducibility, clear technical documentation, and separating demonstration results from real-world performance.
+I am a **Data Scientist** interested in turning data into meaningful, reproducible solutions. My portfolio combines applied machine learning, exploratory analysis, data pipelines, automation, and engineering practices.
 
-**ES:** Me interesan el análisis exploratorio, la preparación de datos, la validación de modelos, el aprendizaje automático interpretable, los procesos ETL, las APIs y las pruebas automatizadas. Priorizo la reproducibilidad, la documentación clara y la distinción entre resultados demostrativos y rendimiento real.
+I focus on clear problem definition, appropriate evaluation, interpretable results, maintainable Python code, and transparent documentation.
 
-## 🚀 Featured Projects | Proyectos destacados
+<a id="español"></a>
+## 🇲🇽 Sobre mí
 
-### 1. [Synthetic Customer Churn ML](https://github.com/Tomsakoch0605/synthetic-customer-churn-ml)
-**EN:** End-to-end machine learning demonstration using synthetic subscription data: EDA, preprocessing, model comparison, cross-validation, holdout evaluation, and interpretation.
+Soy **Científico de Datos** y me interesa transformar la información en soluciones útiles y reproducibles. Mi portafolio combina aprendizaje automático, análisis exploratorio, pipelines de datos, automatización y buenas prácticas de ingeniería.
 
-**ES:** Demostración integral de Machine Learning con datos sintéticos de suscripciones: análisis exploratorio, preparación de datos, comparación de modelos, validación cruzada, evaluación e interpretación.
+Priorizo una definición clara del problema, evaluación rigurosa, resultados interpretables, código Python mantenible y documentación transparente.
 
-`Python` · `scikit-learn` · `EDA` · `Machine Learning` · `Model Evaluation`
+---
 
-### 2. [Operations Data Pipeline](https://github.com/Tomsakoch0605/operations-data-pipeline)
-**EN:** Synthetic data pipeline with local API ingestion, validation, incremental processing, SQLite persistence, and automated reporting.
+## Featured Projects | Proyectos destacados
 
-**ES:** Pipeline de datos sintéticos con ingesta mediante API local, validación, procesamiento incremental, persistencia en SQLite y reportes automatizados.
+### 01 · [Synthetic Customer Churn ML](https://github.com/Tomsakoch0605/synthetic-customer-churn-ml) — Machine Learning
 
-`Python` · `ETL` · `APIs` · `SQLite` · `Testing`
+[![Tests](https://github.com/Tomsakoch0605/synthetic-customer-churn-ml/actions/workflows/tests.yml/badge.svg)](https://github.com/Tomsakoch0605/synthetic-customer-churn-ml/actions)
 
-### 3. [Event Monitoring Engine](https://github.com/Tomsakoch0605/event-monitoring-engine)
-**EN:** Synthetic event monitoring with configurable rules, alerts, deduplication, and SQLite persistence.
+**EN:** End-to-end classification on a fictional subscription dataset: EDA, leakage-aware preprocessing, stratified splitting, cross-validation, baseline comparison, holdout metrics, and permutation importance.
 
-**ES:** Monitoreo de eventos ficticios con reglas configurables, alertas, deduplicación y persistencia en SQLite.
+**ES:** Clasificación integral con suscripciones ficticias: análisis exploratorio, preparación de datos sin fuga de información, separación estratificada, validación cruzada, comparación con modelo base, métricas e importancia por permutación.
 
-`Python` · `Event Processing` · `Rule Engines` · `SQLite` · `CI`
+**Measured synthetic holdout:** ROC-AUC **0.723** · F1 **0.352** · 300 test records. *Not production performance.*
 
-### 4. [Access Workflow Automation](https://github.com/Tomsakoch0605/access-workflow-automation)
-**EN:** Fictional access-request workflow with approval controls, simulated account actions, transactional persistence, and audit records.
+**Stack:** `Python` · `pandas` · `scikit-learn` · `Matplotlib` · `Pytest`
 
-**ES:** Flujo ficticio de solicitudes de acceso con controles de aprobación, acciones simuladas sobre cuentas, persistencia transaccional y registros de auditoría.
+[Explore project / Explorar proyecto](https://github.com/Tomsakoch0605/synthetic-customer-churn-ml)
 
-`Python` · `Workflow Automation` · `APIs` · `SQLite` · `Pytest`
+### 02 · [Operations Data Pipeline](https://github.com/Tomsakoch0605/operations-data-pipeline) — Data Engineering
 
-## 🧰 Tech Stack | Tecnologías
+[![Tests](https://github.com/Tomsakoch0605/operations-data-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/Tomsakoch0605/operations-data-pipeline/actions)
 
-| Area / Área | Tools / Herramientas |
+**EN:** Reproducible data ingestion from a fictional local API, validation, incremental processing, SQLite storage, and CSV reporting.
+
+**ES:** Ingesta reproducible desde una API local ficticia, validación, procesamiento incremental, almacenamiento SQLite y reportes CSV.
+
+**Stack:** `Python` · `ETL` · `HTTP` · `SQLite` · `Testing`
+
+### 03 · [Event Monitoring Engine](https://github.com/Tomsakoch0605/event-monitoring-engine) — Event Processing
+
+[![Tests](https://github.com/Tomsakoch0605/event-monitoring-engine/actions/workflows/tests.yml/badge.svg)](https://github.com/Tomsakoch0605/event-monitoring-engine/actions)
+
+**EN:** Fictional telemetry ingestion with configurable alert rules, event deduplication, local API, and persistent storage.
+
+**ES:** Procesamiento de telemetría ficticia con reglas de alerta configurables, deduplicación, API local y persistencia.
+
+**Stack:** `Python` · `Event Processing` · `Rule Engine` · `SQLite`
+
+### 04 · [Access Workflow Automation](https://github.com/Tomsakoch0605/access-workflow-automation) — Automation Engineering
+
+[![Tests](https://github.com/Tomsakoch0605/access-workflow-automation/actions/workflows/tests.yml/badge.svg)](https://github.com/Tomsakoch0605/access-workflow-automation/actions)
+
+**EN:** Demonstration of request validation, approval workflows, simulated account actions, audit logging, and idempotent execution.
+
+**ES:** Demostración de validación de solicitudes, flujos de aprobación, acciones simuladas sobre cuentas, auditoría y ejecución idempotente.
+
+**Stack:** `Python` · `REST APIs` · `SQLite` · `Pytest` · `Automation`
+
+---
+
+## Technical Toolkit | Herramientas técnicas
+
+| Domain / Área | Skills / Competencias |
 |---|---|
-| Data Science / Ciencia de Datos | Python, pandas, scikit-learn, EDA, model evaluation |
-| Data Engineering / Ingeniería de Datos | SQL, ETL, SQLite, data validation |
-| Software & Automation / Software y automatización | REST APIs, workflow automation, event processing |
-| Quality / Calidad | Pytest, Ruff, Git, GitHub Actions |
+| **Data Science** | EDA, supervised classification, model validation, ROC-AUC, precision, recall, interpretability |
+| **Python ecosystem** | Python, pandas, NumPy, scikit-learn, Matplotlib |
+| **Data Engineering** | SQL, SQLite, ETL, data quality, synthetic data generation |
+| **Automation & APIs** | HTTP, REST-style APIs, workflows, event processing, idempotency |
+| **Software quality** | Git, GitHub Actions, Pytest, Ruff, documentation |
 
-## 🤝 Professional Focus | Enfoque profesional
+## Engineering principles | Principios de trabajo
 
-**EN:** I am interested in Data Scientist and data-focused engineering opportunities where analytical rigor and reliable implementation matter.
+**EN:** Reproducibility · Privacy by design · Clear evaluation · Testable code · Honest interpretation.
 
-**ES:** Me interesan las oportunidades como Data Scientist y en ingeniería orientada a datos, donde sean fundamentales el rigor analítico y la implementación confiable.
+**ES:** Reproducibilidad · Privacidad desde el diseño · Evaluación clara · Código verificable · Interpretación rigurosa.
 
-## 🔒 Portfolio Transparency | Transparencia profesional
+## Portfolio transparency | Transparencia del portafolio
 
-**EN:** The repositories featured here are independently built demonstrations using synthetic data and fictional scenarios. Their outcomes do not establish performance in production, and they are not affiliated with or endorsed by any employer.
+**EN:** These repositories are independently developed technical demonstrations built around fictional scenarios and synthetic data. They contain no company source code or confidential datasets, do not represent production deployments, and are not affiliated with or endorsed by an employer. Model results apply only to the demonstrated synthetic datasets.
 
-**ES:** Los repositorios destacados son demostraciones desarrolladas de forma independiente con datos sintéticos y escenarios ficticios. Sus resultados no demuestran rendimiento en producción y no están afiliados ni respaldados por ningún empleador.
+**ES:** Estos repositorios son demostraciones técnicas desarrolladas de forma independiente con escenarios ficticios y datos sintéticos. No contienen código corporativo ni datasets confidenciales, no representan despliegues en producción y no están afiliados ni respaldados por un empleador. Los resultados de los modelos corresponden exclusivamente a los datos sintéticos utilizados.
 
 ---
 
-📍 [My GitHub / Mi GitHub](https://github.com/Tomsakoch0605)
+<div align="center">
+
+**Data Scientist | Científico de Datos**  
+[Explore my repositories / Explora mis repositorios](https://github.com/Tomsakoch0605?tab=repositories)
+
+</div>
