@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alex · Data Scientist | Científico de Datos
+# Alejandro Carrillo · Data Scientist | Científico de Datos
 
 **Data Science · Machine Learning · Python · SQL · Data Engineering**
 
@@ -8,6 +8,7 @@
 *De los datos a modelos reproducibles y sistemas confiables.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tomsakoch0605-181717?logo=github)](https://github.com/Tomsakoch0605)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michel_Alejandro_Carrillo_V%C3%A1zquez-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ5Yy40NzYtLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/michel-alejandro-carrillo-v%C3%A1zquez/)
 
 **[English](#english) · [Español](#español) · [Projects / Proyectos](#featured-projects--proyectos-destacados)**
 
